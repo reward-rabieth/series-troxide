@@ -1,0 +1,7 @@
+stage: local+dev
+port: 9090
+database:
+  host: localhost
+  name: "spot-dex-dev"
+  username: "spot-dex-dev"
+  password: "password"
